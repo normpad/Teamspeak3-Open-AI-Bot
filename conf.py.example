@@ -1,0 +1,12 @@
+
+#openai
+open_api_key = ""
+
+#teamspeak
+ts3_server_ip = "127.0.0.1"
+ts3_server_query_username = "admin"
+ts3_server_query_passwd = "123"
+ts3_channel_name = "channel"
+
+intro_message="Make up a person with a name and an occupation. From the first person perspective, say hello and introduce yourself as this person."
+forgotten_message_prompt="From the first person perspective plead your case to not be forgotten"
